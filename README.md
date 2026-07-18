@@ -1,4 +1,4 @@
-<img width="1500" height="1500" alt="banner" src="https://github.com/user-attachments/assets/14ffd8a8-95d2-405d-a599-21f23a50a9cc"/>
+<img width="2200" height="724" alt="banner" src="https://github.com/user-attachments/assets/387e328c-5c76-4a4a-9b75-883d47239fa8" />
 
 <h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
 <h3 align="center">Aspiring Python Full Stack Developer from India</h3>
