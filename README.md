@@ -66,13 +66,6 @@
 
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priyu-code14&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -95,11 +88,4 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Priyu-code14/Priyu-code14/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ⭐ Thanks for visiting my profile!
