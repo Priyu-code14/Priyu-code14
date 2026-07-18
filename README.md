@@ -1,4 +1,6 @@
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/387e328c-5c76-4a4a-9b75-883d47239fa8" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/387e328c-5c76-4a4a-9b75-883d47239fa8" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
 <h3 align="center">Aspiring Python Full Stack Developer from India</h3>
@@ -18,6 +20,9 @@
 - 📍 Tamil Nadu, India
 
 ---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Priyu-code14&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ## 🛠 Tech Stack
 
@@ -57,9 +62,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyu-code14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyu-code14&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyu-code14&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyu-code14&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
 </p>
 
 ## 🔥 GitHub Streak
