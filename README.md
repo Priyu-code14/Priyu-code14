@@ -31,24 +31,6 @@
 
 ---
 
-## 💡 Skills
-
-- Frontend Development
-- Python Programming
-- Django Web Development
-- Database Management
-- REST API Development
-- Git & GitHub
-- Problem Solving
-
-## 🌱 Currently Learning
-
-🐍 Advanced Python  
-🌐 Django Framework  
-🗄 MySQL Database  
-🔗 REST API Development  
-☁️ Deployment Basics
-
 ## 🚀 Featured Projects
 
 ### 🍽️ PK Treats Cafe Website
