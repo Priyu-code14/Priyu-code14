@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Priya%20Dharshini&desc=Python%20Full%20Stack%20Developer&fontAlign=50"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Priya%20Dharshini&desc=Python%20Full%20Stack%20Developer&fontAlign=50"/>
 <h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
 <h3 align="center">Aspiring Python Full Stack Developer from India 🇮🇳</h3>
 
