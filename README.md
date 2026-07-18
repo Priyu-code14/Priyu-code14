@@ -20,9 +20,6 @@
 - 📍 Tamil Nadu, India
 
 ---
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Priyu-code14&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ## 🛠 Tech Stack
 
