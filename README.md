@@ -65,7 +65,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyu-code14&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyu-code14&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyu-code14&layout=compact&theme=tokyonight&hide_border=true" width="48%" height = "30%" />
 
 </p>
 
