@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pictures/banner.png" alt="Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
 <h3 align="center">Aspiring Python Full Stack Developer from India</h3>
 
