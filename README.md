@@ -34,6 +34,24 @@
 
 ---
 
+## 💡 Skills
+
+- Frontend Development
+- Python Programming
+- Django Web Development
+- Database Management
+- REST API Development
+- Git & GitHub
+- Problem Solving
+
+## 🌱 Currently Learning
+
+🐍 Advanced Python  
+🌐 Django Framework  
+🗄 MySQL Database  
+🔗 REST API Development  
+☁️ Deployment Basics
+
 ## 🚀 Featured Projects
 
 ### 🍽️ PK Treats Cafe Website
@@ -65,9 +83,16 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyu-code14&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyu-code14&layout=compact&theme=tokyonight&hide_border=true" width="48%" height = "50%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyu-code14&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Priyu-code14&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
 
 ## 🔥 GitHub Streak
 
@@ -91,5 +116,11 @@
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Priyu-code14/Priyu-code14/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ⭐ Thanks for visiting my profile!
